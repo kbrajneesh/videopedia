@@ -1,6 +1,6 @@
 # videopedia
 
-###  <a name="recur_step"></a>To be executed on new mp4 addition 
+### To be executed on new mp4 addition 
 
 * mp4.php             :  update newly added mp4 list and its data and also calls search_list.php for suggestion creation
 * 1.bat               :  creates poster for mp4 files if poster not exists
@@ -27,6 +27,6 @@
 
 * create a directory in videos folder or its subfolder.
 * copy single.php and all.php from another folder
-* [recur_step](### To be executed on new mp4 addition )Follow these steps
+* [Follow these steps](# To be executed on new mp4 addition )
 * add link in navbar of header.php .
    
