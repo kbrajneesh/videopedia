@@ -27,6 +27,6 @@
 
 * create a directory in videos folder or its subfolder.
 * copy single.php and all.php from another folder
-* [recur_step](Follow these steps)
+* [recur_step](### To be executed on new mp4 addition )Follow these steps
 * add link in navbar of header.php .
    
